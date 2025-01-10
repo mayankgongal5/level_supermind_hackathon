@@ -1,0 +1,68 @@
+{
+  "session_id": "d4ed471b-59c3-4c28-8a98-50d839de302a",
+  "outputs": [
+    {
+      "inputs": {
+        "input_value": "analyse all the post type and answer me"
+      },
+      "outputs": [
+        {
+          "results": {
+            "message": {
+              "text_key": "text",
+              "data": {
+                "timestamp": "2025-01-05T13:59:55",
+                "sender": "Machine",
+                "sender_name": "AI",
+                "session_id": "d4ed471b-59c3-4c28-8a98-50d839de302a",
+                "text": "Based on the analysis of the provided social media post data, here are the insights regarding different post types:\n\n1. **Engagement Rates**:\n   - **Carousel Posts**: These posts generally have a higher engagement rate, averaging around 30.01% to 36.78%. The highest engagement rate observed for carousel posts is 54.37%.\n   - **Static Images**: The engagement rates for static images are lower, averaging around 26% to 32%. The highest engagement rate for static images is 38.08%.\n   - **Reels**: Reels show varied engagement rates, with some posts reaching up to 45.45%. However, the average engagement rate for reels is around 28% to 29%.\n\n2. **Comments and Interactions**:\n   - **Reels**: Reels tend to drive significantly more comments compared to other formats. For instance, one reel post received 186 comments, which is notably higher than the average for carousel and static image posts.\n   - **Carousel Posts**: These also receive a good number of comments, with some posts achieving over 70 comments, indicating strong viewer interaction.\n\n3. **Likes and Shares**:\n   - **Reels**: The highest number of likes (917) was recorded for a reel post, indicating that reels can generate substantial viewer interest.\n   - **Carousel Posts**: Carousel posts also perform well in terms of likes, with several posts exceeding 400 likes.\n   - **Static Images**: Static images generally receive fewer likes compared to carousel posts and reels, with the highest being 269 likes.\n\n4. **Reach and Impressions**:\n   - **Reels**: Reels tend to have a broader reach, with some posts reaching over 8,000 views, indicating their potential for virality.\n   - **Carousel Posts**: These posts also achieve significant reach, often exceeding 2,000 views.\n   - **Static Images**: Static images have the lowest reach, with most posts averaging around 500 to 1,500 views.\n\n5. **Sentiment Scores**:\n   - **Reels**: The sentiment scores for reels are mixed, with some posts showing negative sentiment, while others are positive.\n   - **Carousel Posts**: These posts also show a range of sentiment scores, with some achieving positive sentiment.\n   - **Static Images**: Static images tend to have lower sentiment scores, with several posts showing negative sentiment.\n\n6. **Hashtag Usage**:\n   - **Reels**: Reels often utilize more hashtags, with some posts using up to 5 hashtags, which may contribute to their higher engagement.\n   - **Carousel and Static Images**: These formats also use hashtags, but the count is generally lower, which could impact their discoverability.\n\n### Conclusion:\n- **Carousel Posts**: They have a higher engagement rate and are effective for generating likes and shares.\n- **Reels**: They drive significantly more comments and have the potential for higher reach and virality.\n- **Static Images**: They generally have lower engagement and reach compared to the other formats.\n\nOverall, carousel posts are effective for engagement, while reels excel in generating comments and reach. Static images lag behind in both engagement and interaction metrics.",
+                "files": [],
+                "error": false,
+                "edit": false,
+                "properties": {
+                  "text_color": "",
+                  "background_color": "",
+                  "edited": false,
+                  "source": {
+                    "id": "OpenAIModel-kCZ95",
+                    "display_name": "OpenAI",
+                    "source": "gpt-4o-mini"
+                  },
+                  "icon": "OpenAI",
+                  "allow_markdown": false,
+                  "state": "complete",
+                  "targets": []
+                },
+                "category": "message",
+                "content_blocks": [],
+                "id": "f4c7b741-90be-4e1e-9c78-b3a9f4dd3bdb",
+                "flow_id": "d4ed471b-59c3-4c28-8a98-50d839de302a"
+              },
+              "default_value": "",
+              "text": "Based on the analysis of the provided social media post data..."
+            },
+            "artifacts": {
+              "message": "Based on the analysis of the provided social media post data...",
+              "sender": "Machine",
+              "sender_name": "AI",
+              "files": [],
+              "type": "object"
+            },
+            "outputs": {
+              "message": {
+                "message": {
+                  "timestamp": "2025-01-05T13:59:55",
+                  "sender": "Machine",
+                  "sender_name": "AI",
+                  "session_id": "d4ed471b-59c3-4c28-8a98-50d839de302a",
+                  "text": "Based on the analysis of the provided social media post data..."
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
+
